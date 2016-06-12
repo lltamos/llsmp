@@ -1,6 +1,6 @@
-#RecycleViewTabsSearch
+#Search
 
-A small application that shows RecyclecView with Material Tabs ,Search and Hide Search and Fab Button on scroll.
+searchView 下滑隐藏，上拉显示，并实现了列表搜索.
 
 [![Select](https://github.com/scionoftech/RecycleViewTabsSearch/blob/Development/n.png)]()
 
