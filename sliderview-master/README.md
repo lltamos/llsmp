@@ -14,11 +14,7 @@
 
 # Usage
 
-```
-Add the `com.github.channguyen.rsv.RangeSliderView` to your layout XML file.
-```XML
 
-```
 
 For more usage examples check the **sample** project.
 
